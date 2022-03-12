@@ -1494,6 +1494,7 @@ input[type="email"]:focus::placeholder{
     }
     .col_card{
         margin: 2px 0px;
+        height: 95vh;
     }
     .images{
         width: 98%;
