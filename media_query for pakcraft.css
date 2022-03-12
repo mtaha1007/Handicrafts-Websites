@@ -1,0 +1,1110 @@
+
+
+
+@media  screen and (min-width: 2560px) {
+    .blue_lane{
+        width: 100%;
+        font-size: 40px;
+    }
+    .header{
+        width: 100%;
+    }
+    .header_col1 a{
+        font-size: 70px;
+    }
+    .header_col2 a{
+        font-size: 30px;
+    }
+    .header_ico i{
+        font-size: 35px;
+    }
+    .dots_cont{
+        position: absolute;
+        bottom: 0%6
+    }
+    .dots{
+        width: 30px;
+        height: 30px;
+    }
+    main{
+        width: 80%;
+        margin: auto;
+    }
+    .info_h{
+        font-size: 50px;
+        font-weight: 800;
+    }
+    .info_p{
+        font-size: 35px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .images_txt div{
+        font-size: 50px;
+    }
+    .whats{
+        font-size: 62px;
+        margin-top: 500px;
+    }
+    .col_card .link a{
+        font-size: 40px;
+    }
+    .col_card .price a{
+        font-size: 35px;
+    }
+    .sale{
+        padding: 1% 2%;
+    }
+    .sale a{
+        font-size: 30px;
+    }
+    .view a{
+        padding: 25px 80px;
+        font-size: 30px;
+    }
+    .video_h{
+        font-size: 62px;
+        margin-top: 400px;
+    }
+    .intro_video{
+        margin-bottom: 500px;
+    }
+    .intro_video iframe{
+        height: 1000px;
+    }
+    .mission_text h2{
+        font-size: 62px;
+    }
+    .mission_text p{
+        font-size: 42px;
+    }
+    footer{
+        padding: 4% 0%;
+    }
+    .hurr{
+        font-size: 40px;
+    }
+    input[type="email"]{
+        padding: 40px 60px;
+    }
+    input[type="email"]::placeholder{
+        font-size: 35px;
+    }
+    .email_cont button{
+        font-size: 30px;
+    }
+    .footer_nav div a{
+        font-size: 35px;
+    }
+    .paytm{
+        font-size: 60px;
+    }
+    .f-icos a{
+        font-size: 60px;
+    }
+    .whatsapp{
+        padding: 40px 60px;
+        font-size: 80px;
+
+    }
+    .feel{
+        font-size: 30px;
+        padding: 15px 30px;
+    }
+    .wall_decor_heading{
+        margin-bottom: 20px;
+    }
+    .wall_decor_heading h1{
+        font-size: 120px;
+    }
+    .product_dcs h5{
+        font-size: 40px;
+    }
+    .product_dcs p{
+        font-size: 35px;
+    }
+    .ord_cont_2 h1{
+        font-size: 50px;
+    }
+    .ord_cont_2 p{
+        font-size: 40px;
+    }
+    .inc{
+        font-size: 30px;
+    }
+    .add_cart, .buy_now{
+        font-size: 30px;
+    }
+    .pay_cont{
+        padding: 10px 18px;
+    }
+    .pay_cont .pay_heading{
+        font-size: 35px;
+    }
+    .pay_cont .pay_word{
+        font-size: 28px;
+    }
+    .pay_cont h2{
+        font-size: 32px;
+        width: 100%;
+        text-align: center;
+    }
+    .icos i{
+        font-size: 50px;
+    }
+    .dcs_btn button{
+        font-size: 30px;
+        padding: 20px 20px;
+        margin: 0px 4px;
+    }
+    #description_cont1, #spec_cont, #care_cont{
+        padding: 40px 54px;
+    }
+    #description_cont1, #spec_cont p, #care_cont p{
+        font-size: 30px;
+    }
+    #description_cont1 h2, #spec_cont h2, #care_cont h2{
+        font-size: 38px;
+    }
+    #description_cont1 li, #spec_cont li, #care_cont li{
+        font-size: 30px;
+    }
+    .customer_heading h1{
+        font-size: 45px;
+    }
+    .customer_rate a{
+        font-size: 30px;
+    }
+    .customer_rate i{
+        font-size: 34px;
+    }
+    .review{
+        font-size: 28px;
+        padding: 10px 30px;
+    }
+    .let_cust{
+        font-size: 35px;
+    }
+
+    .customer_speak .star_cont {
+        padding: 15px 20px;
+        width: 35%;
+    }
+    .customer_speak .star_cont a{
+        font-size: 29px;
+    }
+    .customer_speak .star_cont i{
+        font-size: 35px;
+    }
+    .image_cont_for_rev{
+        width: 14%;
+    }
+    .heading_cont_for_rev{
+        width: 79%;
+    }
+    .heading_cont_for_rev .star_cont i{
+        font-size: 26px;
+    }
+    .heading .sid_div{
+        width: 7%;
+    }
+    .shukla{
+        font-size: 30px;
+    }
+    .rev{
+        font-size: 26px;
+    }
+    .fa-check-circle{
+        font-size: 28px;
+    }
+    .head_div p{
+        font-size: 29px;
+    }
+}
+
+
+@media only screen and (max-width:1024px) {
+   .blue_lane{
+       font-size: 16px;
+   }
+   .header_col1 a{
+       font-size: 30px;
+   }
+   .header_col2 a{
+       font-size: 12px;
+   }
+   .header_ico i{
+       font-size: 15px;
+   }
+   .search_bar{
+       padding: 10px 0px;
+   }
+   .search_bar div input{
+       height: 40px;
+   }
+   .header_ico div .search_btn{
+        width: 15%;
+        height: 39px;
+    }   
+   .intro_video iframe{
+       border-radius: 20px;
+   }
+   .mission_text h2{
+       font-size: 25px;
+
+   }
+   .mission_text p{
+       font-size: 15px;
+   }
+   .hurr{
+       font-size: 15px;
+   }
+   .email_cont button{
+       font-size: 12px;
+   }
+   .quick_h{
+       margin-bottom: 10px;
+   }
+   .footer_nav{
+       flex-wrap: wrap;
+   }
+   .footer_nav div{
+       margin: 4px 3px;
+   }
+   .footer_nav div a{
+       font-size: 20px;
+   }
+   .paytm{
+       font-size: 25px;
+   }
+   .f-icos i{
+       font-size: 25px;
+   }
+   .whatsapp{
+       padding: 9px 18px;
+       font-size: 30px;
+   }
+   .feel{
+       padding: 4px 8px;
+       font-size: 12px;
+   }
+   .let_cust{
+       width: 50%;
+   }
+   .customer_speak .star_cont{
+       width: 50%;
+   }
+   .wall_decor_heading{
+       margin-bottom: 13px;
+   }
+   .col_card{
+       width: 30%;
+   }
+}
+
+
+
+@media only screen and (max-width:768px) {
+    .blue_lane{
+        font-size: 14px;
+        padding: 16px 0px;
+
+    }
+    
+    .header_ico .search_bar div input{
+        width: 85%;
+    }
+    .header_ico div .search_btn{
+        width: 15%;
+        height: 39px;
+    }
+    .header{
+        width: 100%;
+        padding: 0px 0px;
+
+    }
+    .header_col1{
+        width: 49%;
+        margin: 0px 0px;
+        text-align: center;
+        padding: 10px 0px;
+        padding-right: 0px;
+
+    }
+    .header_col1 a{
+        font-size: 40px;
+        text-align: center;
+        width: 100%;
+    }
+    .header .header_col2{
+        display: none;
+        
+    }
+    
+    .header_ico{
+        justify-content: space-around;
+        width: 48%;
+    }
+
+    .header_ico i{
+        font-size: 22px;
+    }
+    .click_header{
+        top: 100%;
+    }
+    
+    .slide_cont{
+        width: 100%;
+    
+    }
+    .dots{
+        width: 8px ;
+        height: 8px;
+    }
+    main{
+        width: 97%;
+    }
+    .info_h{
+        font-size: 23px;
+    }
+    .info_p{
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .img_cont{
+        flex-wrap: wrap;
+    }
+    .images{
+        width: 48%;
+    }
+    .images_txt div{
+        font-size: 19px;
+    }
+    .col_card{
+        width: 46%;
+    }
+    .link a{
+        font-size: 15px;
+    }
+    .price a{
+        font-size: 15px;
+    }
+    .sale{
+        padding: 2px 7px;
+    }
+    .sale a{
+        font-size: 11px;
+    }
+    .view a{
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    .mission_text h2{
+        font-size: 20px;
+    }
+    .mission_text p{
+        font-size: 13px;
+    }
+    footer{
+        padding-right: 0px;
+    }
+    .quick_h{
+        margin-bottom: 10px;
+    }
+    .email_cont{
+        width: 100%;
+    }
+    input[type=email]{
+        padding: 10px 30px;
+    }
+    .email_cont button{
+        padding: 9px 20px;
+        width: 12%;
+        font-size: 11px;
+        
+    }
+    .footer_nav{
+        flex-wrap: wrap;
+    }
+    .footer_nav div{
+        margin: 10px 10px;
+        text-align: center;
+        width: auto;
+    }
+    .footer_nav div a{
+        font-size: 16px;
+    }
+    .paytm{
+        font-size: 28px;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    .paytm i{
+        margin: 2px 5px;
+    }
+    .f-icos{
+        width: 30%;
+    }
+    .f-icos i{
+        font-size: 28px;
+    }
+    .header_ico .bars{
+        display: block;
+    }
+    /* .fa-bars{
+        display: block;
+    } */
+    #order_ui{
+        width: 100%;
+        margin: auto;
+    }
+    #order_ui .back_btn{
+        margin-top: 200px;
+    }
+    .wall_decor_heading{
+        margin-bottom: 10px;
+    }
+    .ord_cont{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .ord_cont_1{
+        width: 100%;
+        text-align: center;
+        
+    }
+    .product_dcs{
+            display: none;
+    }
+    .ord_cont_2{
+        width: 100%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .ord_cont_2 h1{
+        margin-bottom: 10px;
+    }
+    .ord_cont_2 .sale{
+        padding: 5px 10px;
+    }
+    .ord_cont_2 .sale a{
+        font-size: 18px;
+    }
+    .inc{
+        font-size: 15px;
+    }
+    #description_cont1, #spec_cont, #care_cont{
+        padding: 40px 22px;
+    }
+    .customer{
+        padding: 20px 10px;
+        border: none;
+    }
+    .customer_speak{
+        width: 100%;
+        flex-wrap: wrap;
+        border: 1px solid rgb(140, 140, 140);
+        margin: 30px 0px;
+    }
+    .let_cust{
+        width: 100%;
+        font-size: 16px;
+        border: none;
+    }
+    .customer_speak .star_cont{
+        width: 100%;
+        margin: 0px 0px;
+        border: none;
+        padding: 15px 0px;
+    }
+    .customer_speak .star_cont i{
+        font-size: 15px;
+    }
+    .customer_speak .star_cont a{
+        font-size: 13px;
+    }
+    .image_cont_for_rev{
+        width: 20%;
+    }
+    .heading_cont_for_rev .star_cont i{
+        font-size: 12px;
+    }
+    .user_cards{
+        justify-content: space-between;
+    }
+    .head_div p{
+        font-size: 15px;
+    }
+    .col_card{
+        margin: 3px 0px;
+    }
+    .whatsapp{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    body{
+        width: 100%;
+        
+    }
+    main{
+        width: 90%;
+        
+    }
+    .blue_lane{
+        width: 100%;
+        padding: 12px 0px;
+    }
+    .search_bar{
+        top: 24%;
+    }
+    .search_bar div input{
+        width: 78%;
+    }
+    .search_bar div input::placeholder{
+        font-size: 15px;
+    }
+    .header_ico div .search_btn{
+        width: 20%;
+        height: 40px;
+        font-size: 11px;
+    }
+    .header_ico div .search_btn i{
+        font-size: 11px;
+    }
+    .header11{
+        display: none;
+    }
+    .header{
+        width: 100%;
+        padding: 10px 0px;
+        
+    }
+    
+    .header11 .header_col1{
+        width: 50%;
+        text-align: center;
+    }
+    .header_col1 a{
+        font-size: 35px;
+    }
+    .header11 .header_col2{
+        display: none;
+        
+    }
+    
+     .header_ico{
+        width: 50%;
+        margin: 0%;
+        padding: 20px 0px;
+        /* padding-top: 30px; */
+        justify-content: space-evenly;
+    }
+    .header_ico div{
+        width: 24%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .header_ico i{
+        font-size: 20px;
+    }
+    .header_ico .bars{
+        display: block;
+    }
+    .header11 .click_header{
+        width: 100%;
+        /* justify-content: left; */
+        
+    }
+    
+    main .wall_decor_heading h1{
+        margin-top: 20px;
+    }
+    main .wall_decor_main_heading{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        
+    }
+    main .wall_decor_main_heading h1{
+        font-size: 70px;
+        color: orange;
+        margin-bottom: 0px;
+
+    }
+    .slide_cont{
+        width: 100%;
+        height: 47vh;
+        margin-bottom: 0px;
+        
+    }
+    .slides{
+        width: 100%;
+        height: 47vh;
+    }
+    .slides img{
+        width: 100%; 
+        height: 45vh; 
+    }
+    .dots{
+        width: 10px;
+        height: 10px;
+    }
+    .wall_decor_heading{
+        margin-bottom: 0px;
+        margin-top: 130px;
+    }
+    main{
+        margin-top: 0px;
+    }
+    main .info_handicraft{
+        display: none;
+        margin: auto;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .info_h{
+        margin: 0px;
+        margin-bottom: 0px;
+        font-size: 24px;
+    }
+    .info_p{
+        font-size: 14px;
+        margin: 0px;
+    }
+    
+    .img_cont{
+        margin-top: 0%;
+    }
+    .images{
+        width: 65%;
+        margin: auto;
+        margin-bottom: 10px;
+        height: 40vh;
+        
+    }
+      
+    .images_txt div{
+        font-size: 18px;
+        
+    }
+    .whats, .video_h{
+        text-decoration: underline rgb(21, 21, 22);
+    }
+    
+    #user_cards{
+        margin-bottom: 1px;
+    }
+    .col_card{
+        width: 98%;
+        height: 95vh;
+        margin-bottom: 20px;
+    }
+    .col_card img{
+        width: 100%;
+    }
+    .sale{
+        width: 50px ;
+        padding: 0px 0px;
+        height: 25px;
+    }
+    .view{
+        margin-top: 0px;
+    }
+    .intro_video iframe{
+        border-radius: 5px;
+        height: 400px;
+    }
+     #mission_cont10{
+        flex-wrap: wrap-reverse;
+    }
+    .mission_cont{
+        flex-wrap: wrap;
+    }
+    .mission_img{
+        width: 100%;
+    }
+    .mission_text{
+        margin: 20px 0px;
+        width: 100%;
+    }
+    .mission_text h2{
+        font-size: 30px;
+    }
+    .mission_text p{
+        font-size: 15px;
+    }
+    footer{
+        padding-right: 10px;
+    }
+    footer .footer_h{
+        font-size: 22px;
+        line-height: 40px;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    footer .hurr{
+        font-size: 19px;
+        margin-bottom: 0px;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+        margin-top: 0px;
+    }
+    .email_cont{
+        width: 80%;
+        margin: auto;
+        margin-top: 80px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    input[type=email]{
+        width: 100%;
+        
+    }
+    input[type=email]::placeholder{
+        font-weight: 500;
+    }
+    input[type=email]:focus::placeholder{
+        color: rgb(87, 87, 87);
+    }
+    input[type=email]:focus{
+        width: 100%;
+    }
+    .email_cont button{
+        width: 100%;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .footer_nav{
+        flex-direction: column;
+        width: 100%;
+        justify-content: left;
+        margin: 0px 0px;
+    }
+    .footer_nav div{
+        width: 100%;
+        text-align: left;
+        padding-left: 20px;
+        margin-top: 30px;
+    }
+    .quick_h{
+        font-size: 24px;
+        text-align: left;
+        width: 40%;
+        margin-top: 50px;
+    }
+    .footer_ico{
+        flex-wrap:wrap-reverse;
+        margin-top: 70px;
+    }
+    .paytm{
+        width: 95%;
+        font-size: 30px;
+        margin: 30px 0px;
+        justify-content: center;
+        margin-top: 60px;
+        
+    }
+    .paytm i{
+        margin-left: 13px;
+    }
+    .f-icos{
+        width: 95%;
+        
+    }
+    .f-icos i{
+        font-size: 33px;
+    }
+    .whatsapp{
+        display: none;
+    }
+    .product_dcs{
+        display: none;
+}
+    .ord_cont_2{
+        display: block;
+        text-align: left;
+    }
+    .ord_cont_2 .sale{
+        padding: 5px 5px;
+    }
+    .ord_cont_2 .sale a{
+        font-size: 12px;
+    }
+    .ord_cont_2 p{
+        width: 100%;
+        text-align: left;
+    }
+    .ord_cont_2 button{
+        width: 100%;
+        margin: 4px 0px;
+    }
+    .pay_cont{
+        width: 94%;
+
+    }
+    
+    #description_cont1, #spec_cont, #care_cont{
+        width: 90%;
+    }
+    .customer{
+        width: 96%;
+    }
+    .customer_heading h1{
+        font-size: 15px;
+    }
+    .customer_rate .star_cont i{
+        font-size: 13px;
+    }
+    .customer_rate .star_cont a{
+        font-size: 13px;
+    }
+    .image_cont_for_rev{
+        width: 30%;
+    }
+    .heading .sid_div{
+        width: 20%;
+    }
+    .heading_cont_for_rev{
+        flex-direction: column;
+    }
+    .heading_cont_for_rev .star_cont{
+        width: 40%;
+    }
+    .heading_cont_for_rev .star_cont i{
+        font-size: 12px;
+    }
+}
+
+
+@media only screen and (max-width:375px) {
+    .col_card{
+        height: 80vh;
+    }
+    .info_handicraft .info_h{
+        font-size: 22px;
+        text-align: center;
+        margin: 0px;
+        margin-bottom: 12px;
+    }
+    .info_handicraft p{
+        font-size: 12px;
+    }
+    .search_bar div .search_btn{
+        width: 25%;
+    }
+    .search_bar div input::placeholder{
+        font-size: 14px;
+    }
+    div .search_btn{
+        font-size: 10px;
+    }
+    .info_p{
+        font-size: 18px;
+    }
+    .footer_h{
+        width: 100%;
+        text-align: center;
+    }
+    .hurr{
+        font-size: 13px;
+    }
+    
+    .customer_heading h1{
+        font-size: 18px;
+    }
+    .customer_rate .star_cont i{
+        font-size: 30px;
+    }
+    .customer_rate .star_cont a{
+        font-size: 18px;
+    }
+    .bars{
+        display: block;
+    }
+    .product_dcs{
+        display: none;
+    }
+    .back_btn{
+    margin-top: 0px;
+    }
+    .email_cont{
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+    input[type=email]{
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .email_cont button{
+        width: 100%;
+        height: 34px;
+        font-size: 14px;
+    }
+    input[type=email]:focus{
+        width: 100%;
+        border: 1px solid orangered;
+    }
+}
+
+
+@media only screen and (max-width:320px) {
+    body{
+        width: 100%;
+    }
+    .header .header_ico .search_bar{
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .header .header_ico .search_bar div{
+        width: 80%;
+       
+    }
+    .header .header_ico .search_bar div input{
+        width: 80%;
+        height: 36px;
+    }
+    .header .header_ico .search_bar div .search_btn{
+        width: 26%;
+        font-size: 12px;
+        height: 36px;
+    }
+    .header .header_ico .search_bar div .search_btn i{
+        font-size: 11px;
+    }
+    .header{
+        padding: 20px 0px;
+        text-align: center;
+        width: 100%;
+    }
+    .header_col1{
+        width: 45%;
+        text-align: center;
+        padding: 0px 0px;
+    }
+    
+    .header_ico .bars{
+        display: block;
+    }
+    .header_col1 a{
+        font-size: 25px;
+        text-align: center;
+    }
+    .header .header_ico{
+        width: 48%;
+        text-align: center;
+        justify-content: space-evenly;
+    }
+    .header .header_ico div{
+        width: 23%;
+        padding: 0px 0px;
+        
+    }
+    .header .header_ico i{
+        font-size: 14px;
+    }
+    main{
+        width: 92%;
+    }
+    main .wall_decor_main_heading{
+        margin-bottom: 70px;
+    }
+    main .wall_decor_heading{
+        margin-top: 0px;
+    }
+    main .wall_decor_heading h1{
+        font-size: 35px;
+        margin-top: -50px;
+    }
+    .cross .fa-times-circle{
+        font-size: 15px;
+    }
+    .info_handicraft{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .info_handicraft .info_h{
+        font-size: 20px;
+        margin: 0px;
+        text-align: center;
+    }
+    .info_handicraft .info_p{
+        margin-top: 10px;
+        font-size: 10px;
+    }
+
+    .images{
+        width: 48%;
+        margin: 4px 0px;
+    }
+    .images_txt div{
+        font-size: 15px;
+        top: 100%;
+    }
+    .col_card{
+        margin: 5px 0px;
+        height: 75vh;
+    }
+    footer .footer_h{
+        font-size: 21px;
+        width: 95%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    footer .hurr{
+        width: 90%;
+        margin: auto;
+        font-size: 17px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .email_cont{
+        width: 90%;
+    }
+    .email_cont input[type=email]{
+        width: 100%;
+    }
+    .email_cont input[type=email]::placeholder{
+        font-size: 14px;
+    }
+    .email_cont button{
+        width: 100%;
+        font-size: 13px;
+        margin-top: 1px;
+    }
+    .quick_h{
+        width: 55%;
+    }
+    .paytm{
+        font-size: 25px;
+    }
+    .wall_decor_heading{
+        margin-bottom: 0px;
+    }
+    .pay_cont i{
+        font-size: 20px;
+    }
+    .ord_cont_2 h1{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .ord_cont_2 p{
+        font-size: 18px;
+    }
+    .product_dcs{
+        display: none;
+    }
+    .back_btn{
+        margin-top: 10px;
+    }
+}

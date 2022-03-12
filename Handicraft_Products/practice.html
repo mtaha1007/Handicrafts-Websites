@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            width: 100%;
+            margin: 0%;
+        }
+        .slide_cont{
+            width: 80%;
+            margin: auto;
+            position: relative;
+
+        }
+        .slides{
+            display: none;
+        }
+        .slide_cont img{
+            width: 100%;
+            
+        }
+        span{
+            position: absolute;
+            top: 45%;
+            font-size: 45px;
+            color: rgb(24, 21, 21);
+            padding: 10px 10px;
+        }
+        .right{
+            right: 0%;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="slide_cont">
+        <div class="slides">
+            <img src="./Handi_crafts Images/1.png" alt="">
+        </div>
+        <div class="slides">
+            <img src="./Handi_crafts Images/2.png" alt="">
+        </div>
+        <div class="slides">
+            <img src="./Handi_crafts Images/3.png" alt="">
+        </div>
+        <span class="left" onclick="-1">
+            &#10094
+        </span>
+        <span class="right" onclick="1">
+            &#10095
+        </span>
+    </div>
+
+    <script>
+        var index = 0;
+        showslides(index);
+        function plus(n) {
+            index = index + n
+            showslides(index);
+        }
+    
+        function showslides(num) {
+            var slidess = document.getElementsByClassName("slides")
+            
+            
+            slidess[num].style.display="block"
+            
+            for( i = 0; i < slidess.length; i++){
+                i.style.display="none"
+            }
+        }
+    
+    </script>
+</body>
+
+</html>
